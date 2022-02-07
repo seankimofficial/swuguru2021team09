@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: a772fdbf696980a4f8d420a7b8264990
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2364855247512024993
+    second: shrub_0
+  - first:
+      213: -965880573565008923
+    second: shrub_2
+  - first:
+      213: -6771015500505508564
+    second: shrub_2
+  - first:
+      213: -5279194954186533494
+    second: shrub_3
+  - first:
+      213: -3558373281968235215
+    second: shrub_1
+  - first:
+      213: 5993868571160197527
+    second: shrub_5
+  - first:
+      213: -5419165172985384506
+    second: shrub_6
+  - first:
+      213: -89695505864112151
+    second: shrub_5
+  - first:
+      213: 5965572231045808114
+    second: shrub_8
+  - first:
+      213: 7530883340383332569
+    second: shrub_4
+  - first:
+      213: -8667336366533991562
+    second: shrub_6
+  - first:
+      213: 3926413341001247570
+    second: shrub_8
+  - first:
+      213: 3673667773231269884
+    second: shrub_7
+  - first:
+      213: -4058599349170950532
+    second: shrub_13
+  - first:
+      213: 2489094778090671066
+    second: shrub_14
+  - first:
+      213: 6672401528744452999
+    second: shrub_15
+  - first:
+      213: 5426327922367845357
+    second: shrub_16
+  - first:
+      213: 3289479755581260551
+    second: shrub_17
+  - first:
+      213: -1050943515851555311
+    second: shrub_18
+  - first:
+      213: -8961429610052164160
+    second: shrub_19
+  - first:
+      213: -5132950934821902782
+    second: shrub_20
+  - first:
+      213: 8181461827014955568
+    second: shrub_21
+  - first:
+      213: -7582009790394600781
+    second: shrub_22
+  - first:
+      213: -8832524759876141889
+    second: shrub_23
+  - first:
+      213: 5494631897423023061
+    second: shrub_24
+  - first:
+      213: 4460699964825259003
+    second: shrub_25
+  - first:
+      213: -3547883841049573967
+    second: shrub_26
+  - first:
+      213: 8431976814782251801
+    second: shrub_27
+  - first:
+      213: 504162259275699793
+    second: shrub_28
+  - first:
+      213: -1053817485512324779
+    second: shrub_29
+  - first:
+      213: -2017067692737136918
+    second: shrub_30
+  - first:
+      213: -5651010484863327967
+    second: shrub_31
+  - first:
+      213: -3726623517630884250
+    second: shrub_32
+  - first:
+      213: -6764488319069664350
+    second: shrub_33
+  - first:
+      213: 8923616193017214182
+    second: shrub_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shrub_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 350
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73c2d6157a1d020800000000000000
+      internalID: 2364855247512024993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 263
+        width: 153
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3053d5cb08892f0800000000000000
+      internalID: -965880573565008923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 203
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855da7d8288cb6b0800000000000000
+      internalID: -5279194954186533494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 175
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dda066a5e1e9ec0800000000000000
+      internalID: -3558373281968235215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 204
+        width: 147
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74503a96651cef0800000000000000
+      internalID: -89695505864112151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a47c6f72138860800000000000000
+      internalID: 7530883340383332569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 129
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673aae30f7f67b780800000000000000
+      internalID: -8667336366533991562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 56
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bebbf612c6d7630800000000000000
+      internalID: 3926413341001247570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrub_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 129
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70046306d7bf230800000000000000
+      internalID: 3673667773231269884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
